@@ -1,0 +1,12 @@
+.h-line {
+  height: 1px;
+  border: none;
+  background-color: #374151;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #14ecc8, #1390dd);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
